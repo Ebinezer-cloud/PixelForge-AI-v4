@@ -1,0 +1,1 @@
+# Background removal service placeholder.
