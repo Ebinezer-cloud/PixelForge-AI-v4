@@ -1,33 +1,141 @@
-# PixelForge AI
+# 📸 PixelForge
 
-A professional browser-based photo editing studio with a red + purple creative interface.
+> A professional browser-based photo editing studio built with React, Vite, and HTML Canvas.
 
-## Current V1
-- Upload image / drag & drop
-- Canvas editor
-- Brightness
-- Contrast
-- Saturation
-- Blur
-- Grayscale
-- Sepia
-- Rotate
-- Flip
-- Zoom
-- Undo / Redo
-- Before / After preview
-- Export PNG/JPG
-- Professional dark red/purple UI
+## 🚀 About
 
-## Run on Windows
+PixelForge is a modern photo editing application designed with a professional dark red and purple interface.
 
-1. Install Node.js.
-2. Double-click `run.bat`.
-3. Open `http://localhost:5173`.
+It provides essential photo editing tools in a simple and powerful workspace.
 
-## Planned AI Studio
-- AI background removal
-- Object removal
-- AI enhancement
-- AI upscale
-- AI features are intentionally excluded from V1 UI
+## ✨ Features
+
+- 🖼️ Image Upload & Drag and Drop
+- ☀️ Brightness Adjustment
+- 🎚️ Contrast Control
+- 🌈 Saturation Control
+- 🌫️ Blur Effect
+- ⚫ Grayscale & Sepia
+- 🎨 Professional Filters
+- ✂️ Crop Tool
+- 🔄 Rotate & Flip
+- 🖌️ Drawing / Brush Tool
+- 📚 Layers
+- 🕘 Editing History
+- ↩️ Undo & Redo
+- 🌓 Before / After Preview
+- 🔍 Zoom
+- 📤 PNG & JPG Export
+
+## 🎨 Filters
+
+- Original
+- Cinematic
+- Vivid
+- Mono
+- Warm
+- Noir
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- HTML Canvas
+- CSS
+- Lucide React
+- FastAPI
+
+## 🎯 Goal
+
+## ⚡ Installation
+
+### Requirements
+
+- Node.js 18+
+- Modern Web Browser
+- Windows / macOS / Linux
+
+### Run the Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/PixelForge.git
+
+Open the project:
+
+</>Bash
+
+cd PixelForge
+
+Install dependencies:
+
+</>Bash
+
+cd frontend
+npm install
+
+Start the application:
+
+</>Bash
+
+npm run dev
+
+Open in your browser:
+
+http://localhost:5173
+
+🪟 Windows Quick Start
+
+You can simply double-click:
+
+run.bat
+
+📁 Project Structure
+PixelForge/
+├── frontend/
+├── backend/
+├── models/
+├── exports/
+├── run.bat
+└── README.md
+
+--------
+
+🔒 Privacy
+
+PixelForge uses a local-first editing workflow for its core editing features. Images can be edited directly in the browser.
+
+🗺️ Roadmap
+ .Image Upload
+ .Canvas Editor
+ .Adjustments
+ .Filters
+ .Crop
+. Drawing
+. Layers
+. History
+ .Undo / Redo
+ .Before / After
+. Export
+. Advanced Layers
+. Text Tool
+. Shapes
+. Masking
+. Advanced Color Grading
+PixelForge aims to provide a professional photo editing experience with a modern interface, powerful editing tools, and a simple workflow.
+
+**Edit. Create. Transform. 📸🔥**
+
+--------
+
+👨‍💻 Author
+
+Ebinezer Jeba Samuel
+
+Aspiring Software Engineer | Web Developer | AI/ML Enthusiast
+
+⭐ Support
+
+ in/ebinezer-ebinezer-ab8b61392
